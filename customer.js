@@ -10,7 +10,7 @@ var customerController=function (req, res) {
   {customername:'Radha',Balance:1334,Country:'India'},
   {customername:'Rajesh',Balance:12354,Country:'Australia'},
   {customername:'john',Balance:11234,Country:'Germany'},
-  {customername:'rahi',Balance:12344,Country:'UK'}
+  {customername:'Amit',Balance:122344,Country:'America'}
   ];
   res.send(customers);
 };
