@@ -1,0 +1,18 @@
+~Functional Requirement :-
+
+1)The web application shall accept customer information.
+2)The web application shall be able to access by any emplyoee id and password.
+3)The web application shall produce a receipt detailing a customers’ purchase information and include name of customer, their account details, and last    transition.
+4)The web application shall be able to produce weekly, monthly and yearly reports about Customer Accounts.
+5)Descriptions of operations performed by each page should be given.
+6)Descriptions of work-flows performed by the system should clearly be told.
+
+~Non-Functional Requirementb :-
+
+1)The web application shall be easy to use by all employees including sales representatives and managers.
+2)The web application shall be available in several languages.
+3)The web application shall allow several customer details same time without downgrading performance.
+4)the web application shall allow several employee to login at the same time without downgrading performance.
+5)Scalability.
+6)Maintainence.
+7)fast response.
